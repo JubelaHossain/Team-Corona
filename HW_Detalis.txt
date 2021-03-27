@@ -1,0 +1,6 @@
+
+Opu Vai-> {About Me} {My portfolio/JUBEL} {Copyright}
+
+Ruma Apu-> {Pricing Plan/JUBEL} {My Services}
+
+Jobel-> {NAV} {Banner} {Testimonial} {My Blogs} {Get in Touch}
